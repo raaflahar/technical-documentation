@@ -9,4 +9,4 @@ To understand about How to install pH Sensor 4502 and oprate it using Arduino ID
 ## Documentation
 
 Here's screenshoot of my project:
-![Screenshoot](technical-documentation\assets\Screenshoot.png)
+![Screenshoot](https://github.com/raaflahar/technical-documentation/blob/main/assets/Screenshoot.png?raw=true)
